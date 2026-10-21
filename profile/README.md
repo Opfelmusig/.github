@@ -4,7 +4,7 @@
 
 An alternative Apple Music client.  
 Öpfelmusig is the literal Swiss German translation of "Apple Music"  
-**[Download :apple::musical_note:](https://github.com/opfelmusig/downloads)**
+**[Download :apple::musical_note:](https://github.com/opfelmusig/app)**
 
 </div>
 <br>
